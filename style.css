@@ -19,7 +19,7 @@
 
 .item_padded {
   margin: 0px;
-  padding-left: 30px;
+  padding-left: 20px;
 }
 
 body {
@@ -56,6 +56,10 @@ article {
 article div {
   text-align: center;
   width: 100%;
+}
+
+article div section p {
+  font-size: 14px;
 }
 
 /* Paragraphs */
